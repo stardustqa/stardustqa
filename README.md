@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Hi there 👋
 
 🧪 QA Engineer at  🔴 intent | Mobile 📱 Web 🌐 IoT 🤖 | 5 Years Experience | Hardware Enthusiast 🔧 | 
 
