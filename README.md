@@ -1,5 +1,5 @@
 
-Arianna 🧪 QA Engineer at  🔴 intent | Mobile 📱 Web 🌐 IoT 🤖 | 5 Years Experience | Hardware Enthusiast 🔧 | 
+| Arianna 🧪 QA Engineer at  🔴 intent | Mobile 📱 Web 🌐 IoT 🤖 | 5 Years Experience | Hardware Enthusiast 🔧 | 
 
 <!--
 **stardustqa/stardustqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
